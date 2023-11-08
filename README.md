@@ -1,6 +1,7 @@
 # Twitter Emotion Classifier
 
-![Twitter Emotion Classifier](img1.png)
+![Screenshot 2023-11-08 125603](https://github.com/Nehaasah/Twitter-Emotions-Classification/assets/102512172/7994c4a7-bef9-478a-ac11-bade0ef14657)
+
 
 The **Twitter Emotion Classifier** is a machine learning project that can analyze and classify the emotions conveyed in tweets. 
 This classifier is powered by the BERT model and can detect emotions like sadness, joy, love, anger, fear, and surprise in text data.
@@ -33,6 +34,10 @@ The primary objectives of this project are as follows:
 - Created custom data loaders and fine-tuned the BERT model for emotion classification.
 - Conducted extensive testing and validation to ensure the classifier's accuracy.
 - Documented the code and created a user-friendly README.
+  
+
+![image](https://github.com/Nehaasah/Twitter-Emotions-Classification/assets/102512172/4d8f1fec-2a1c-482e-a94e-90d626e37644)
+
 
 ## Challenges Faced
 
@@ -49,6 +54,15 @@ During the development of the Twitter Emotion Classifier, I encountered several 
 2. I carefully fine-tuned hyperparameters by experimenting with learning rates, batch sizes, and model architectures, while monitoring the model's performance on a validation dataset to identify the best configuration.
 3. To tackle resource management issues, I implemented data loading pipelines to efficiently handle real-time predictions. Additionally, I optimized the app's code and made use of appropriate hardware resources to ensure a smooth user experience.
 4. To resolve dependency and compatibility issues, I maintained a clear record of library versions and systematically verified that all components had compatible versions. This ensured that the project could be easily reproduced and run by others.
+
+# Results :
+1
+![Screenshot 2023-11-08 130356](https://github.com/Nehaasah/Twitter-Emotions-Classification/assets/102512172/bef194da-050d-4e49-98f8-e2e52e2eeeb2)
+
+2
+![Screenshot 2023-11-08 130210](https://github.com/Nehaasah/Twitter-Emotions-Classification/assets/102512172/cbfeec38-0449-4403-8775-bb4fc7c92973)
+
+
 
 ## Skills Acquired
 
